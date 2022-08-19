@@ -1,0 +1,5 @@
+Problema/Desafio
+Você deverá:
+1. guardar uma lista de estudantes com o nome de cada aluno/aluna;
+2. apresentar o nome de cada aluno inserido.
+Somente poderá ser inserido aluno na lista, caso a quantidade de alunos não tenha ultrapassado 5.
